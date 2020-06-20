@@ -1,7 +1,7 @@
 # ISP  
 Desctiption of tascks  
-Open file LOT.ipynb (shortly List of tasks  )  
-
+Open file LOT.ipynb ( List of tasks  )  
+of if U wanna check your own choises, open Answers.txt .
 
 .....oooO..............   
 .....(........)....Oooo...  
