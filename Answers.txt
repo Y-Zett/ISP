@@ -1,0 +1,71 @@
+1.C)
+2.B)
+3.A)
+4.True
+5.B)
+6.True
+7.E)
+8.A)
+9.True
+10.True
+11.A)
+12.A)B)
+13.False
+14.E)
+15.A) 
+16.D)
+17.E) 
+18.D)
+19.B)
+20.D)
+21.A)
+22.C)
+23.B)
+24.D)
+25.E)
+26.C)
+27.False
+28.A)
+29.B)
+30.D)
+31.C)
+32.True
+33.С)
+34.B)
+35.A)
+36.скорее False, чем True
+37.False
+38.D)
+39.С)
+40.False
+41.C)
+42.False
+43.C)
+44.A)
+45.D)
+46.D)
+47.True
+48.E)
+49.C)
+50.E)
+52.blank = True
+53.urls.py
+54.@login_required
+55.manage.py runserver 0.0.0.0:8000
+56.{% extends "base.html" %}
+57.все верны
+58.class Meta:ordering = [“id”]
+59.нет
+60.В папке приложения создать файл admin.py и зарегистрировать нужные модели в нем
+61.render_to_response
+62.manage.py makemigrations
+63.form.is_valid()
+64.django-admin startproject project
+65.нет
+66.Нужно добавить в файле settings.py в переменную  INSTALLED_APPS имя нашего 
+67.для обработки запросов и ответов в Django
+68.path('news/', include('catalog.urls'))
+69.все варианты 
+70.Cоздать переменную LOGGING в settings.py и указать конфигурацию.
+71.field = models.ForeignKey('DB_TABLE')
+72.ListView
