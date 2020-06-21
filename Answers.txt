@@ -68,4 +68,4 @@
 69.все варианты 
 70.Cоздать переменную LOGGING в settings.py и указать конфигурацию.
 71.field = models.ForeignKey('DB_TABLE')
-72.ListView
+72.ListView / def my_view(request): my_objects = get_list_or_404(MyModel, published=True)
